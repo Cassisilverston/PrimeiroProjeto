@@ -1,5 +1,9 @@
 # 👨🏾‍💻 Meu primeiro projeto com CSharp | My first project with CSharp
 
+<div align = "center">
+  <img src = "giphyProjeto.gif" align = center >
+</div>
+
 ## Descrição do Projeto | Project description. 🔡
 
 - Aqui foi instalado e configurado o ambiente de desenvolvimento em diferentes sistemas operacionais, 
