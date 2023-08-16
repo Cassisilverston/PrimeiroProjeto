@@ -1,1 +1,1 @@
-### 👨🏾‍💻 Meu primeiro projeto em CSharp
+### 👨🏾‍💻 Meu primeiro projeto com CSharp | My first project with CSharp
